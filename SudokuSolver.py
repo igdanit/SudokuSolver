@@ -1,5 +1,6 @@
 # Main module. Contain a kivy interface
 # Kivy 2.0.0
+# Don't press a button "Solve" with a empty sudoku. It will take a lot of time.
 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
